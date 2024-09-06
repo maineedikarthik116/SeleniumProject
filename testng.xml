@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="D:/SeleniumProject/SeleniumProject"><classes><class name="org.testng.example.TestNgExample"><methods><include name="driverSetup"/></methods></class></classes></test></suite>
